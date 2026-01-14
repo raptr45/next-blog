@@ -8,7 +8,7 @@ export default function Footer() {
         <p>
           Developed with 🍵 by{" "}
           <Link
-            href="https://github.com/AbidAlWassie"
+            href="https://github.com/raptr45"
             target="_blank"
             className="font-bold"
           >
