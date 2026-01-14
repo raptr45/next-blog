@@ -79,7 +79,7 @@ export default async function SiteLayout({ children, params }: LayoutProps) {
             <p className="mt-2">
               Developed by{" "}
               <a
-                href="https://github.com/AbidAlWassie"
+                href="https://github.com/raptr45"
                 className="text-blue-600 hover:underline"
                 target="_blank"
               >
