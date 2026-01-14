@@ -19,7 +19,7 @@
     "@radix-ui/react-dropdown-menu": "^2.1.16",
     "@radix-ui/react-label": "^2.1.8",
     "@radix-ui/react-separator": "^1.1.8",
-    "@radix-ui/react-slot": "^1.2.4",
+    "@radix-ui/https://github.com/raptr45/next-blog/pull/57/conflict?name=pnpm-lock.yaml&ancestor_oid=c10eba954377b977235dc17d77cb2dbeec843670&base_oid=ae9efd13433372d6e687a40e98a15d74080e02f7&head_oid=0ec5dc65a122d43b5048c0dc07f411edc7d51682react-slot": "^1.2.4",
     "@radix-ui/react-tabs": "^1.1.13",
     "@radix-ui/react-tooltip": "^1.2.8",
     "@tanstack/react-query": "^5.90.12",
@@ -47,7 +47,7 @@
     "tailwind-merge": "^3.4.0",
     "tailwindcss-animate": "^1.0.7",
     "uuid": "^11.1.0",
-    "zod": "^3.25.76"
+    "zod": "^4.1.12"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.3",
